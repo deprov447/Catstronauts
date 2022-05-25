@@ -1,8 +1,8 @@
 # Catstronauts
 
-React App endpoint: [https://catstronaut.deprov447.tech](https://catstronaut.deprov447.me)
+React App endpoint: [https://catstronaut.deprov447.me](https://catstronaut.deprov447.me)
 
-GraphQL endpoint: [https://catstronaut-gql.deprov447.tech](https://catstronaut-gql.deprov447.me)
+GraphQL endpoint: [https://catstronaut-gql.deprov447.me](https://catstronaut-gql.deprov447.me)
 
 ## Setup
 
